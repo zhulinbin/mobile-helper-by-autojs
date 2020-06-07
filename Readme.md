@@ -21,13 +21,21 @@ In VS code, you can search the "Auto.js-VSCode-Extension" in Extensions(Ctrl+Shi
 
 - Pressing Ctrl+Shift+P you can run or stop Autojs conveniently.
 
-![Start/Stop Server](screenShot/1.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="300" src="screenShot/1.png" alt="screenShot">
+  </a>
+</p>
 
 - Connect your mobile device
 
 Make sure your mobile and computer are on the LAN network. Then trigger the menu on the left side of Autojs and type IP address of you remote machine to connect. If you do this action successfully, you can see a hint like "New device attached"
 
-![connect remote PC](screenShot/2.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="200" src="screenShot/2.png" alt="screenShot">
+  </a>
+</p>
 
 >Build the first application
 
@@ -37,17 +45,29 @@ Add a javascript file called "helloWorld.js" and type in:
 
 Having finished all the coding, you can Press F5 to run your application in your mobile:
 
-![helloWorld](screenShot/3.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="200" src="screenShot/3.png" alt="screenShot">
+  </a>
+</p>
 
 There you go, we've already built a light Autojs application. That's literally straightforward.
 
 Also you can run "Save On device" like:
 
-![save](screenShot/4.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="260" src="screenShot/4.png" alt="screenShot">
+  </a>
+</p>
 
 to store the file in your mobile and then run it directly.
 
-![saved file](screenShot/5.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="260" src="screenShot/5.png" alt="screenShot">
+  </a>
+</p>
 
 > Features In-Depth
 
@@ -55,23 +75,47 @@ First and foremost, If you'd like to build sophisticated applications, you proba
 
 Autojs provides some built-in functionality for us to catch elements you want somehow and would generate a piece of example code for developers. However one thing you're supposed to completed before start your coding which is to ensure you've enabled these two options as below:
 
-![enabled options](screenShot/6.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="260" src="screenShot/6.png" alt="screenShot">
+  </a>
+</p>
 
 Awesome, why not just grab something on how to inspect an element and take some samples?
 
-![inspect elements](screenShot/7.png)
-![generate samples](screenShot/8.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="260" src="screenShot/7.png" alt="screenShot">
+  </a>
+</p>
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="260" src="screenShot/8.png" alt="screenShot">
+  </a>
+</p>
 
 Alright, that's simple enough!
 
 And next step you can open the OUTPUT panel in VS code to observe what's going on your code during the development stage.
 
-![cosole.log](screenShot/9.png)
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="300" src="screenShot/9.png" alt="screenShot">
+  </a>
+</p>
 
 Now, you can start coding and do anything you want by checking out the <a href="https://hyb1996.github.io/AutoJs-Docs/#/app">API</a> document. There are quite a few interfaces, each with its own special functionality. For here, I would give you a demonstration and put it in the repository as a reference.
 
-<div style="text-align: center">
-  <img src="screenShot/10.gif">
-</div>
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img width="150" src="screenShot/10.gif" alt="screenShot">
+  </a>
+</p>
 
 Thanks guys!
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2020-present, Luoxiaobin
