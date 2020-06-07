@@ -71,9 +71,7 @@ And next step you can open the OUTPUT panel in VS code to observe what's going o
 Now, you can start coding and do anything you want by checking out the <a href="https://hyb1996.github.io/AutoJs-Docs/#/app">API</a> document. There are quite a few interfaces, each with its own special functionality. For here, I would give you a demonstration and put it in the repository as a reference.
 
 <div style="text-align: center">
-
-![demo](screenShot/10.gif)
-
+  <img src="screenShot/10.gif">
 </div>
 
 Thanks guys!
