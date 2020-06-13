@@ -1,9 +1,9 @@
 ## Overview
-There are many of approaches to build a automatic plugin using the web technology around the world like <a href="http://airtest.netease.com/">Airtest</a>, <a href="https://developer.chrome.com/extensions/getstarted.html">Chrome plugin</a>, <a href="https://www.w3cschool.cn/eeras_e4a/">E4A></a>, <a href="https://hyb1996.github.io/AutoJs-Docs/#/">AutoJs</a> and Native application etc. Apparently as an experienced front-end developer Autojs would be a better way to pick up for implementing mobile plugins.
+There are many of approaches to build an automatic plugin using the web technology around the world like <a href="http://airtest.netease.com/">Airtest</a>, <a href="https://developer.chrome.com/extensions/getstarted.html">Chrome plugin</a>, <a href="https://www.w3cschool.cn/eeras_e4a/">E4A></a>, <a href="https://hyb1996.github.io/AutoJs-Docs/#/">AutoJs</a> and Native application etc. Apparently as an experienced front-end developer Autojs would be a better way to pick up for implementing mobile plugins.
 
 ## What's the Autojs?
 
-Autojs using the Rhino 1.7.7.2 as basic engine allows you to develop your applications in Android operating system by Javascript language quite easily. It's an open resource which is located in <a href="https://github.com/hyb1996/AutoJs-Docs">Autojs GitHub</a> 
+Autojs using the Rhino 1.7.7.2 as basic engine allows you to develop your applications for Android operating system by Javascript language quite easily. It's an open resource which is located in <a href="https://github.com/hyb1996/AutoJs-Docs">Autojs GitHub</a> 
 
 ## Build your first application
 As the official guide says, we can develop plugins in both Mobile and your computer. Obviously, I tend to use the Visual Studio Code to create my first project. The following topic will take you through the basic of how to implement a minimum application using your computer. If you are familiar with JavaScript or Nodejs, that would be comfortable with the journey.
@@ -73,7 +73,7 @@ to store the file in your mobile and then run it directly.
 
 First and foremost, If you'd like to build sophisticated applications, you probably need to know something for debugging such as how to inspect an element, how to handle trouble-shooting etc.
 
-Autojs provides some built-in functionality for us to catch elements you want somehow and would generate a piece of example code for developers. However one thing you're supposed to completed before start your coding which is to ensure you've enabled these two options as below:
+Autojs provides some built-in functionality for us to catch elements you want somehow and would generate a piece of example code for developers. However one thing you're supposed to completed before starting your coding which is to ensure you've enabled these two options as below:
 
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
